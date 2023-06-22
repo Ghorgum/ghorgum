@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+---
+
+- ⚡ Fun fact:
+
+![swiss](https://github.com/Ghorgum/ghorgum/assets/105881625/1e70ab50-0eae-4714-86b0-6cae10a59dc9)
+
+
 <!--
 **Ghorgum/ghorgum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
